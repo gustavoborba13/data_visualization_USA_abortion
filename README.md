@@ -5,6 +5,12 @@ This project was part of the Data Visualization course at Lund University School
 ## Overview 
 The idea of this project was to explore different forms of visualization to understand the chosen dataset. 
 
+The project contains:
+* a density plot relating abortion restrictions and abortion rate.
+* a scatter plot to check if the abortion rates and restriction levels could be correlated to the politics of each state by adding the democracy variable into our plot
+* a faceted plot by three political options (Majority Republican, Even, Majority Democrat) with colors describing if state laws prohibit same-sex relationships.
+* a choropleth mapping the abortion rates throughout the United States territory
+
 Note:. the .md knitted file contain few formatting mistakes that arose when converting .rmd to .md
 
 ## Folders 
